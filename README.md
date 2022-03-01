@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PartyZzzan77&theme=dark&show_icons=true)
+
 ### Hi there 👋, my name is Mitya
 #### Front-end developer
 I am a beginner front-end developer 🧑🏻‍💻 Economist by education 📈, but my love code 💻
@@ -21,14 +23,8 @@ I am a beginner front-end developer 🧑🏻‍💻 Economist by education 📈,
 
 ![GitHub metrics](https://metrics.lecoq.io/PartyZzzan77)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PartyZzzan77&theme=dark&show_icons=true)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PartyZzzan77)  
 
 [![codewars](https://www.codewars.com/users/PartyZzzan77/badges/large)](https://www.codewars.com/users/PartyZzzan77) 
 
 ![Profile views](https://gpvc.arturio.dev/PartyZzzan77)  
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
