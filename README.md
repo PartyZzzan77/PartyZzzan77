@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mitya
 #### Front-end developer
-Hello everyoneу✌🏻 I am a beginner front-end developer 🧑🏻‍💻 Economist by education 📈, but my love code 💻
+I am a beginner front-end developer 🧑🏻‍💻 Economist by education 📈, but my love code 💻
 
 Skills: JS/ REACT/ REDUX / HTML / CSS
 
