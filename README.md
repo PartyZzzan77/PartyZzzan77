@@ -19,3 +19,5 @@ Skills: JS/ REACT/ REDUX / HTML / CSS
 [![codewars](https://www.codewars.com/users/PartyZzzan77/badges/large)](https://www.codewars.com/users/PartyZzzan77) 
 
 ![Profile views](https://gpvc.arturio.dev/PartyZzzan77)  
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
