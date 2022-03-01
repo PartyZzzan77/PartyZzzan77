@@ -14,8 +14,8 @@ Skills: JS/ REACT/ REDUX / HTML / CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PartyZzzan77&theme=dark&show_icons=true)
 
-[![codewars](https://www.codewars.com/users/PartyZzzan77/badges/small)](https://www.codewars.com/users/PartyZzzan77) 
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PartyZzzan77)  
+
+[![codewars](https://www.codewars.com/users/PartyZzzan77/badges/large)](https://www.codewars.com/users/PartyZzzan77) 
 
 ![Profile views](https://gpvc.arturio.dev/PartyZzzan77)  
