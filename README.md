@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mitya
 #### Front-end developer
-![Front-end developer](https://www.incimages.com/uploaded_files/image/1920x1080/getty_485008244_105123.jpg)
+![Front-end developer](https://clck.ru/dVuzW)
 
 Hello everyoneу✌🏻 I am a beginner front-end developer 🧑🏻‍💻 Economist by education 📈, but my love code 💻
 
