@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Mitya
 #### Front-end developer
-![Front-end developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hello everyoneу✌🏻 I am a beginner front-end developer 🧑🏻‍💻 Economist by education 📈, but my love code 💻
 
