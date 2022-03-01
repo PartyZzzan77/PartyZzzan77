@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Mitya
 #### Front-end developer
-![Front-end developer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eliteprep.com%2Fextracurriculars%2Ffundamentals-of-code-development&psig=AOvVaw0heZO3KjTLE5sTWpTYy2-L&ust=1646240386378000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjB5cKxpfYCFQAAAAAdAAAAABAD)
+![Front-end developer]
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eliteprep.com%2Fextracurriculars%2Ffundamentals-of-code-development&psig=AOvVaw0heZO3KjTLE5sTWpTYy2-L&ust=1646240386378000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjB5cKxpfYCFQAAAAAdAAAAABAD)
 
 Hello everyoneу✌🏻 I am a beginner front-end developer 🧑🏻‍💻 Economist by education 📈, but my love code 💻
 
