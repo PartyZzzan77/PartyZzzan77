@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mitya
 #### Front-end developer
-![Front-end developer](https://clck.ru/dVuzW)
+![Front-end developer](https://wdfiles.ru/ca36c1)
 
 Hello everyoneу✌🏻 I am a beginner front-end developer 🧑🏻‍💻 Economist by education 📈, but my love code 💻
 
