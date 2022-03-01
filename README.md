@@ -10,7 +10,7 @@ Skills: JS/ REACT/ REDUX / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PartyZzzan77)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PartyZzzan77&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PartyZzzan77&theme=dark_icons=true)
 
 ![GitHub metrics](https://metrics.lecoq.io/PartyZzzan77)  
 
