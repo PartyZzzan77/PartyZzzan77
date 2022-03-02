@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=PartyZzzan77&theme=monokai)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PartyZzzan77&theme=monokai)](https://github.com/PartyZzzan77/github-profile-trophy)
 
 ### Hi there 👋, my name is Mitya
 
