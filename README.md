@@ -1,4 +1,4 @@
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=PartyZzzan77
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=PartyZzzan77)
 
 ### Hi there 👋, my name is Mitya
 
