@@ -1,8 +1,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PartyZzzan77&theme=dark&show_icons=true)
 
 ### Hi there 👋, my name is Mitya
-#### Front-end developer
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+developer)](https://git.io/typing-svg)
+
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+developer)](https://git.io/typing-svg)
+
 I am a beginner front-end developer 🧑🏻‍💻 Economist by education 📈, but my love code 💻
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
