@@ -1,11 +1,12 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PartyZzzan77&theme=dark&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PartyZzzan77)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Hi there 👋, my name is Mitya
-[![trophy](https://github-profile-trophy.vercel.app/?username=PartyZzzan77)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AC254&size=25&vCenter=true&lines=Front-end+developer)](https://git.io/typing-svg)
 
 #### I am a beginner front-end developer 🧑🏻‍💻 Economist by education 📈, but my love code 💻
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PartyZzzan77&theme=dark&show_icons=true)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,7 +17,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-- 🌱 I’m currently learning React 
+#### 🌱 I’m currently learning React 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PartyZzzan77)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/PartyZzzan77)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/PartyZzzan77)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17221951)  
 
