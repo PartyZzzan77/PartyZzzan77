@@ -1,6 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PartyZzzan77&theme=dark&show_icons=true)
 
 ### Hi there 👋, my name is Mitya
+[![trophy](https://github-profile-trophy.vercel.app/?username=PartyZzzan77)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AC254&size=25&vCenter=true&lines=Front-end+developer)](https://git.io/typing-svg)
 
