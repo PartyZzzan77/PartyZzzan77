@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AC254&size=25&vCenter=true&lines=Front-end+developer)](https://git.io/typing-svg)
 
-#### I am a beginner front-end developer 🧑🏻‍💻 Economist by education 📈, but my love code 💻
+#### Front-end developer 🧑🏻‍💻 Economist by education 📈, but my love code 💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PartyZzzan77&theme=dark&show_icons=true)
 
