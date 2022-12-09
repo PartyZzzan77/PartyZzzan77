@@ -7,7 +7,7 @@
 #### I'm currently learning Node.js at RS SCHOOL 🛼
 
 
-[![codewars](https://www.codewars.com/users/PartyZzzan77/badges/medium)](https://www.codewars.com/users/PartyZzzan77) 
+[![codewars](https://www.codewars.com/users/PartyZzzan77/badges/small)](https://www.codewars.com/users/PartyZzzan77) 
 
 ### My stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
