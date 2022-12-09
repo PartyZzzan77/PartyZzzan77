@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=PartyZzzan77&theme=monokai)](https://github.com/PartyZzzan77/github-profile-trophy)
 
-### Hi there 👋, my name is Mitya
+### Hi there 👋 My name is Mitya and I'm
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AC254&size=25&vCenter=true&lines=Front-end+developer)](https://git.io/typing-svg)
 
