@@ -15,13 +15,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-[![codewars](https://www.codewars.com/users/PartyZzzan77/badges/large)](https://www.codewars.com/users/PartyZzzan77) 
+![Profile views](https://gpvc.arturio.dev/PartyZzzan77)  
 
 ### Links
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PartyZzzan77)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/PartyZzzan77)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/PartyZzzan77)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17221951)  
+[![codewars](https://www.codewars.com/users/PartyZzzan77/badges/large)](https://www.codewars.com/users/PartyZzzan77) 
 
 ![GitHub metrics](https://metrics.lecoq.io/PartyZzzan77)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PartyZzzan77)  
-
-![Profile views](https://gpvc.arturio.dev/PartyZzzan77)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PartyZzzan77)
