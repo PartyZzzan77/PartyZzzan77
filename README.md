@@ -20,10 +20,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PartyZzzan77&theme=solarized_dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PartyZzzan77&theme=dark&show_icons=true)
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PartyZzzan77)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/PartyZzzan77)  
