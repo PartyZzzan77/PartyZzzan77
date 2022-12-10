@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AC254&size=25&vCenter=true&lines=Front-end+developer)](https://git.io/typing-svg)
 
+ 
+![im-fine](https://user-images.githubusercontent.com/88058465/206839342-ed50a08b-e4c3-437f-9b0b-457b2634f79c.svg)
 #### Currently studying Node.js at RS SCHOOL 🛼
 
 ### My stack
@@ -22,5 +24,3 @@
 ![GitHub metrics](https://metrics.lecoq.io/PartyZzzan77)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PartyZzzan77)
-
-![im-fine](https://user-images.githubusercontent.com/88058465/206839342-ed50a08b-e4c3-437f-9b0b-457b2634f79c.svg)
