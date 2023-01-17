@@ -6,7 +6,7 @@
 
  
 ![im-fine](https://user-images.githubusercontent.com/88058465/206839342-ed50a08b-e4c3-437f-9b0b-457b2634f79c.svg)
-#### Currently studying Node.js at 🛼 RS SCHOOL 🛼
+#### Currently studying Node.js at 🛼 [RS SCHOOL](https://rs.school) 🛼
 
 ### My stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
