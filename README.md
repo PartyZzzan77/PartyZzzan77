@@ -5,8 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AC254&size=25&vCenter=true&lines=Front-end+developer)](https://git.io/typing-svg)
 
  
-![im-fine](https://user-images.githubusercontent.com/88058465/206839342-ed50a08b-e4c3-437f-9b0b-457b2634f79c.svg)
-#### Currently studying Angular at 🛼 [RS SCHOOL](https://rs.school) 🛼
+![im-fine](https://m4i6f5v7.stackpathcdn.com/wp-content/uploads/2012/03/figure_1_nine_sons_of_the_dragon_king_filtered.jpg)
 
 ### My stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
