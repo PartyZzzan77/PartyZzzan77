@@ -2,7 +2,7 @@
 
 ### Hi there 👋 My name is Mitya and I'm
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AC254&size=25&vCenter=true&lines=Front-end+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AC254&size=25&vCenter=true&lines=Frontend+Developer)](https://git.io/typing-svg)
 
  
 ![im-fine](https://m4i6f5v7.stackpathcdn.com/wp-content/uploads/2012/03/figure_1_nine_sons_of_the_dragon_king_filtered.jpg)
